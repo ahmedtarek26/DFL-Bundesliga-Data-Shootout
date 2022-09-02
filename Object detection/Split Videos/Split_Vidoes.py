@@ -21,5 +21,5 @@ def Split_frames(Path_videos,Path_images,Number_Frame):
         cv2.destroyAllWindows()
         j = j + 1
         
-# Split_frames(Path_videos='Video',Path_images='Player',Number_Frame=30)
-Split_frames(Path_videos='Video',Path_images='Ball',Number_Frame=10)
+# Split_frames(Path_videos='Videos',Path_images='Player',Number_Frame=30)
+Split_frames(Path_videos='Videos',Path_images='Ball',Number_Frame=10)
