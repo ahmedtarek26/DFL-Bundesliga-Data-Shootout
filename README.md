@@ -32,4 +32,8 @@ Opponent dispossessed: a player not in ball control dispossesses the opposing pl
 Challenge during release of the ball: applies when shots or balls played are forced or blocked during challenges. A challenge is only recorded, if the ball played or shot travels through the area that the defending player is attempting to cover from a tactical perspective. All other cases are not recorded as challenges.
 Possession retained during challenge: applies when one of the players involved in the challenge has certain ball control at the start of the challenge and manages to retain it, despite the efforts to dispossess him of the opponent involved in the challenge.
 
-## Samples of events detection using yolov5
+## Sample of results
+
+<div align=center>
+          <img alt="gif" align="center" src="sample-result.gif"/>
+    </div>
