@@ -2,6 +2,13 @@
 Competition link : https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout
 
 ## Events descripsion
+
+### Sample of results
+
+<div align=center>
+          <img alt="gif" align="center" src="sample-result.gif"/>
+    </div>
+    
 ### Plays
 A Play describes a player’s attempt to switch ball control to another member of his team. A play event may be executed as a Pass or as a Cross.
 
@@ -32,8 +39,4 @@ Opponent dispossessed: a player not in ball control dispossesses the opposing pl
 Challenge during release of the ball: applies when shots or balls played are forced or blocked during challenges. A challenge is only recorded, if the ball played or shot travels through the area that the defending player is attempting to cover from a tactical perspective. All other cases are not recorded as challenges.
 Possession retained during challenge: applies when one of the players involved in the challenge has certain ball control at the start of the challenge and manages to retain it, despite the efforts to dispossess him of the opponent involved in the challenge.
 
-## Sample of results
 
-<div align=center>
-          <img alt="gif" align="center" src="sample-result.gif"/>
-    </div>
