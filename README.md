@@ -25,6 +25,9 @@ A Free Kick refers to a situation where the Play is executed to restart the game
 An Open Play refers to any Play that is executed in-play and not from a dead ball situation (like corner kick, free kick or any other set piece).
 
 ### Throw-Ins
+
+<img src= "https://github.com/ahmedtarek26/DFL-Bundesliga-Data-Shootout/blob/main/35bd9041_1_39.jpg" width="420" height="300">
+
 A Throw-In refers to a situation where the game is restarted after the ball went out of play over the sideline following the touch of the opposite team. The ball must be thrown with hands, from behind and over the head of executing player.
 
 ### Challenge
